@@ -130,4 +130,4 @@ Explored a dataset of 9,826 Netflix movies to inform content strategy, focusing 
 # Contact
 
 **Email:** aimenzikraa@gmail.com
-**GitHub:** yourusername
+**GitHub:** https://github.com/Aimen-zikra/Data-Portfolio.git
