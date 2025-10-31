@@ -8,13 +8,13 @@ Welcome to my Data Analytics and Engineering Portfolio. I enjoy exploring datase
 
 **Programming & Tools**: Python (Pandas, NumPy), SQL, MySQL, Jupyter Notebook, Matplotlib, Seaborn
 
-**Data Analysis**: EDA, Feature Engineering, Descriptive Statistics, Correlation Analysis
+**Data Analysis**: EDA, Feature Engineering, Descriptive Statistics, Correlation Analysis, Risk Factor Identification
 
-**Data Engineering**: ETL Pipelines, Data Modeling (Star Schema), Data Cleaning & Imputation
+**Data Engineering**: ETL Pipelines, Data Modeling (Star Schema), Data Cleaning & Imputation, Survey Data Handling
 
 **Visualization**: Bar Charts, Pie Charts, Line Plots, Boxplots, Count Plots
 
-**Domains**: E-commerce Sales, Entertainment (Movies), Business Intelligence
+**Domains**: Mental Health, Workplace Analytics, HR & Employee Wellness, E-commerce Sales, Entertainment (Movies), Business Intelligence
 
 ## Projects
 ### 1. 📦 Data Warehouse Project
@@ -67,7 +67,39 @@ bronze_, silver_, and gold_ prefixes ensure clear data lineage and governance.
 - Improved KPI tracking for marketing and operations teams.
 
 ---
-## 📊 2. Blinkit Sales Data Analysis
+## 🧠 2. Mental Health Risk Prediction in Tech
+
+**Type:** Full-Stack Data Analysis (SQL + Python + Actionable Insights)
+
+**Tech Stack:** SQL, MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook
+
+**Repository:** https://github.com/Aimen-zikra/Mental-Health.git
+
+#### Description
+This project analyzes mental health trends among 261,328 professionals using survey data to answer:
+“Which workplace, lifestyle, and behavioral factors predict high stress + mood swings (a proxy for mental health risk)?”
+Using SQL for data engineering and Python for visualization, we uncover data-driven insights to guide wellness programs, HR policies, and early intervention.
+
+#### 🧩 Key Insights:
+* Coping struggles are the strongest predictor (+120% risk increase).
+* Family history and prolonged isolation (>30 days indoors) significantly raise risk.
+* Self-employed professionals face ~20% higher risk than salaried employees.
+* Demographics (gender, country) show minimal correlation — behavior > biology.
+
+#### 📈 Highlights:
+* Processed and cleaned 261K+ records using SQL.
+* Created derived features for stress and coping indicators.
+* Correlation and uplift analysis to quantify key behavioral drivers.
+* Designed intervention-focused recommendations for HR wellness programs.
+
+#### 💡 Business Impact:
+* Enables early identification of high-risk employees.
+* Reduces burnout and potential churn by 10–25%.
+
+Empowers organizations to build data-driven mental wellness programs.
+
+--- 
+## 📊 3. Blinkit Sales Data Analysis
 **Type:** Exploratory Data Analysis (EDA)
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
@@ -94,7 +126,7 @@ Analyzed Blinkit’s sales performance to identify key sales drivers across item
 *  Supported strategic decision-making for outlet expansion and product prioritization.
 
 ---
-## 🎬 3. Netflix Movie Data Analysis
+## 🎬 4. Netflix Movie Data Analysis
 **Type:** Exploratory & Business Data Analysis
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
@@ -130,4 +162,5 @@ Explored a dataset of 9,826 Netflix movies to inform content strategy, focusing 
 # Contact
 
 **Email:** aimenzikraa@gmail.com
+
 **GitHub:** https://github.com/Aimen-zikra/Data-Portfolio.git
